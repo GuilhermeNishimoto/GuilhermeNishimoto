@@ -18,4 +18,4 @@
   
   ##
   
-  
+![Snake animation](https://github.com/GuilhermeNishimoto/GuilhermeNishimoto/blob/output/github-contribution-grid-snake.svg)
