@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there! I'm Guilherme Nishimoto.
 
-<!--
-**GuilhermeNishimoto/GuilhermeNishimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as an Business Intelligence Comercial Intern at Mobly
+- 🌱 I’m currently learning Python and SQL for Data Science
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/GuilhermeNishimoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNishimoto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNishimoto&layout=compact&langs_count=7&theme=merko"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Guilherme-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align ="center" alt="Guilherme-Pandas" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align ="center" alt="Guilherme-MySQL" height="40" widht="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+  
+  ##
+  
+  
