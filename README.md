@@ -1,6 +1,6 @@
 ### Hi there! I'm Guilherme Nishimoto.
 
-- 🔭 I’m currently working as an Business Intelligence Comercial Intern at Mobly
+- 🔭 I’m currently working as a Business Intelligence Comercial Intern at Mobly
 - 🌱 I’m currently learning Python and SQL for Data Science
 - 😄 Pronouns: He/Him
 
